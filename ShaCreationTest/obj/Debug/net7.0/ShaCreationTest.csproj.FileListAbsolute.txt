@@ -1,0 +1,14 @@
+/Users/user/Projects/ShaCreationTest/ShaCreationTest/bin/Debug/net7.0/ShaCreationTest
+/Users/user/Projects/ShaCreationTest/ShaCreationTest/bin/Debug/net7.0/ShaCreationTest.deps.json
+/Users/user/Projects/ShaCreationTest/ShaCreationTest/bin/Debug/net7.0/ShaCreationTest.runtimeconfig.json
+/Users/user/Projects/ShaCreationTest/ShaCreationTest/bin/Debug/net7.0/ShaCreationTest.dll
+/Users/user/Projects/ShaCreationTest/ShaCreationTest/bin/Debug/net7.0/ShaCreationTest.pdb
+/Users/user/Projects/ShaCreationTest/ShaCreationTest/obj/Debug/net7.0/ShaCreationTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/ShaCreationTest/ShaCreationTest/obj/Debug/net7.0/ShaCreationTest.AssemblyInfoInputs.cache
+/Users/user/Projects/ShaCreationTest/ShaCreationTest/obj/Debug/net7.0/ShaCreationTest.AssemblyInfo.cs
+/Users/user/Projects/ShaCreationTest/ShaCreationTest/obj/Debug/net7.0/ShaCreationTest.csproj.CoreCompileInputs.cache
+/Users/user/Projects/ShaCreationTest/ShaCreationTest/obj/Debug/net7.0/ShaCreationTest.dll
+/Users/user/Projects/ShaCreationTest/ShaCreationTest/obj/Debug/net7.0/refint/ShaCreationTest.dll
+/Users/user/Projects/ShaCreationTest/ShaCreationTest/obj/Debug/net7.0/ShaCreationTest.pdb
+/Users/user/Projects/ShaCreationTest/ShaCreationTest/obj/Debug/net7.0/ShaCreationTest.genruntimeconfig.cache
+/Users/user/Projects/ShaCreationTest/ShaCreationTest/obj/Debug/net7.0/ref/ShaCreationTest.dll

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{51CDB7E7-9F94-4D66-86C1-93371DCF7750}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShaCreationTest/Program.cs">
+    <Files>
+      <File FileName="ShaCreationTest/Program.cs" Line="24" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShaCreationTest" expanded="True">
+            <Node name="ShaCreationTest" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ShaCreationTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
